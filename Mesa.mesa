@@ -1,1 +1,7 @@
-// TODO: solve world hunger
+def foo = "students_10";
+
+newTable "identity" {
+	startWith foo
+    // TODO: solve world hunger
+}
+
